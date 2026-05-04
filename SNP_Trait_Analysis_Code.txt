@@ -1,0 +1,349 @@
+#SNP Dictionaries
+SNP_Database = {
+	"Power" : {
+		"rs1815739": {
+			"weight" : 3,
+			"genotypes" : {
+				"RR" : 3,
+				"RX" : 1.5,
+				"XX" : 0
+			}
+		},
+		"rs540874": {
+			"weight" : 1,
+			"genotypes" : {
+				"CC" : 1,
+				"CT" : 0.5,
+				"TT" : 0
+			}
+		},
+		"rs2229456": {
+			"weight" : 1,
+			"genotypes" : {
+				"AA" : 1,
+				"AG" : 0.5,
+				"GG" : 0
+			}
+		},
+		"rs1799752": {
+			"weight" : 3,
+			"genotypes" : {
+				"DD" : 3,
+				"ID" : 1.5,
+				"II" : 0
+			}
+		},
+		"rs4341": {
+			"weight" : 1,
+			"genotypes" : {
+				"GG" : 1,
+				"GA" : 0.5,
+				"AA" : 0
+			}
+		},
+		"rs4343": {
+			"weight" : 1,
+			"genotypes" : {
+				"GG" : 1,
+				"GA" : 0.5,
+				"AA" : 0
+			}
+		},
+		"rs4291": {
+			"weight" : 1,
+			"genotypes" : {
+				"TT" : 1,
+				"AT" : 0.5,
+				"AA" : 0
+			}
+		},
+		"rs8111989": {
+			"weight" : 2,
+			"genotypes" : {
+				"AA" : 2,
+				"AG" : 1,
+				"GG" : 0
+			}
+		},
+		"rs432979": {
+			"weight" : 1,
+			"genotypes" : {
+				"AA" : 1,
+				"AG" : 0.5,
+				"GG" : 0
+			}
+		},
+		"rs17602729": {
+			"weight" : 2,
+			"genotypes" : {
+				"CC" : 2,
+				"CT" : 1,
+				"TT" : 0
+			}
+		},
+		"rs2010899": {
+			"weight" : 1,
+			"genotypes" : {
+				"AA" : 1,
+				"AG" : 0.5,
+				"GG" : 0
+			}
+		},
+		"rs35767": {
+			"weight" : 2,
+			"genotypes" : {
+				"TT" : 2,
+				"TC" : 1,
+				"CC" : 0
+			}
+		},
+		"rs5742612": {
+			"weight" : 1,
+			"genotypes" : {
+				"GG" : 1,
+				"GA" : 0.5,
+				"AA" : 0
+			}
+		},
+		"rs1520220": {
+			"weight" : 1,
+			"genotypes" : {
+				"GG" : 1,
+				"GC" : 0.5,
+				"CC" : 0
+			}
+		}
+	},
+	"Endurance" : {
+		"rs1799752": {
+			"weight" : 3,
+			"genotypes" : {
+				"II" : 3,
+				"ID" : 1.5,
+				"DD" : 0
+			}
+		},
+ 		"rs8192678": {
+			"weight" : 3,
+			"genotypes" : {
+				"GG" : 3,
+				"GA" : 1.5,
+				"AA" : 0
+			}
+		},
+		"rs2970847": {
+			"weight" : 1,
+			"genotypes" : {
+				"AA" : 1,
+				"AG" : 0.5,
+				"GG" : 0
+			}
+		},
+		"rs3755863": {
+			"weight" : 1,
+			"genotypes" : {
+				"TT" : 1,
+				"TC" : 0.5,
+				"CC" : 0
+			}
+		},
+		"rs6821591": {
+			"weight" : 1,
+			"genotypes" : {
+				"AA" : 1,
+				"AG" : 0.5,
+				"GG" : 0
+			}
+		},
+		"rs11549465": {
+			"weight" : 2,
+			"genotypes" : {
+				"CC" : 2,
+				"CT" : 1,
+				"TT" : 0
+			}
+		},
+		"rs11549467": {
+			"weight" : 1,
+			"genotypes" : {
+				"GG" : 1,
+				"GA" : 0.5,
+				"AA" : 0
+			}
+		},
+		"rs2057482": {
+			"weight" : 1,
+			"genotypes" : {
+				"TT" : 1,
+				"TC" : 0.5,
+				"CC" : 0
+			}
+		},
+		"rs1799983": {
+			"weight" : 2,
+			"genotypes" : {
+				"GG" : 2,
+				"GT" : 1,
+				"TT" : 0
+			}
+		},
+		"rs2070744": {
+			"weight" : 1,
+			"genotypes" : {
+				"TT" : 1,
+				"TC" : 0.5,
+				"CC" : 0
+			}
+		},
+		"rs3918226": {
+			"weight" : 1,
+			"genotypes" : {
+				"CC" : 1,
+				"CT" : 0.5,
+				"TT" : 0
+			}
+		},
+		"rs7830": {
+			"weight" : 1,
+			"genotypes" : {
+				"AA" : 1,
+				"AG" : 0.5,
+				"GG" : 0
+			}
+		}
+	},
+	"Energy Efficiency": {
+		"rs1049434": {
+			"weight" : 2,
+			"genotypes" : {
+				"AA" :2 ,
+				"AT" : 1,
+				"TT" : 0
+			}
+		},
+		"rs7556664": {
+			"weight" : 1,
+			"genotypes" : {
+				"CC" : 1,
+				"CT" : 0.5,
+				"TT" : 0
+			}
+		},
+		"rs7169": {
+			"weight" : 1,
+			"genotypes" : {
+				"GG" : 1,
+				"GA" : 0.5,
+				"AA" : 0
+			}
+		},
+		"rs1800435": {
+			"weight" : 2,
+			"genotypes" : {
+				"GG" : 2,
+				"GA" : 1,
+				"AA" : 0
+			}
+		},
+		"rs3212318": {
+			"weight" : 1,
+			"genotypes" : {
+				"TT" : 1,
+				"TC" : 0.5,
+				"CC" : 0
+			}
+		},
+		"rs2846682": {
+			"weight" : 1,
+			"genotypes" : {
+				"AA" : 1,
+				"AG" : 0.5,
+				"GG" : 0
+			}
+		},
+		"rs9939609": {
+			"weight" : 2,
+			"genotypes" : {
+				"TT" : 2,
+				"AT" : 1,
+				"AA" : 0
+			}
+		},
+		"rs17782313": {
+			"weight" : 2,
+			"genotypes" : {
+				"TT" : 2,
+				"TC" : 1,
+				"CC" : 0
+			}
+		}
+	},
+	"Recovery": {
+		"rs4680": {
+			"weight" : 2,
+			"genotypes" : {
+				"AA" : 2,
+				"AG" : 1,
+				"GG" : 0
+			}
+		},
+		"rs4633": {
+			"weight" : 1,
+			"genotypes" : {
+				"TT" : 1,
+				"TC" : 0.5,
+				"CC" : 0
+			}
+		},
+		"rs4818": {
+			"weight" : 1,
+			"genotypes" : {
+				"GG" : 1,
+				"GC" : 0.5,
+				"CC" : 0
+			}
+		},
+		"rs6269": {
+			"weight" : 1,
+			"genotypes" : {
+				"AA" : 1,
+				"AG" : 0.5,
+				"GG" : 0
+			}
+		},
+		"rs6265": {
+			"weight" : 2,
+			"genotypes" : {
+				"GG" : 2,
+				"GA" : 1,
+				"AA" : 0
+			}
+		},
+		"rs1800795": {
+			"weight" : 2,
+			"genotypes" : {
+				"GG" : 2,
+				"GC" : 1,
+				"CC" : 0
+			}
+		},
+		"rs1800629": {
+			"weight" :2 ,
+			"genotypes" : {
+				"GG" : 2,
+				"GA" : 1,
+				"AA" : 0
+			}
+		}
+	},
+	"Injury Risk": {
+		"rs12722": {
+			"weight" : 3,
+			"genotypes" : {
+				"CC" : 3,
+				"CT" : 1.5,
+				"TT" : 0
+			}
+		}
+	}
+}
